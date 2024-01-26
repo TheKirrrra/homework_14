@@ -1,2 +1,8 @@
-# homework_14
-json file for fetch
+{
+"success": {
+"model": "Mercedes",
+"year": 2000,
+"color": "Brown",
+"id": 1
+}
+}
