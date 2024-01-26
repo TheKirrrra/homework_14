@@ -1,8 +1,1 @@
-{
-"success": {
-"model": "Mercedes",
-"year": 2000,
-"color": "Brown",
-"id": 1
-}
-}
+My JSON file
